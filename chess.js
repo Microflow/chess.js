@@ -1,4 +1,6 @@
-/*
+/* FORKING CHESS JS TO MAKE OUR OWN VARIANT. EITHER DOUBLE CHESS OR FISCHERS RULES. 
+ *
+ *
  * Copyright (c) 2016, Jeff Hlywa (jhlywa@gmail.com)
  * All rights reserved.
  *
